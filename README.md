@@ -12,7 +12,7 @@
   - [*Learn Web Scraping with Beautiful Soup Course*](https://www.codecademy.com/profiles/thmsdwt/certificates/f4cba58fa21e556a6a8f5a975cef5388)
 
 #
-  💥💥💥 ~~ [**Check out my portfolio here!**](https://github.com/lucjankonopka/portfolio) ~~ 💥💥💥
+  💥💥💥 ~~ [**Check out my portfolio here!**](https://github.com/datamannetje/portfolio) ~~ 💥💥💥
 
 
 <!--
